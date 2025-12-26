@@ -1,0 +1,10 @@
+ # R session & system junk
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+Reanalysis_of_reply.docx
+~$analysis_of_reply.docx
+Data/ # Folder containing raw data files
